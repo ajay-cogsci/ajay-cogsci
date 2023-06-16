@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Ajay 
 
-I am a Undergraduate Student at DIT University. I work as Student Researcher at [e-Learning & Data Analytics Lab](https://eldalab.in/).
+I am an incoming Master's student at University of Fukui, Japan (Sep'23). My field of research is Quantum Complexity Theory and Theoretical Computer Science. Previously, I was a research member at [e-Learning & Data Analytics Lab](https://eldalab.in/).
 
 #### 🚀 I’m currently working on ...
 
