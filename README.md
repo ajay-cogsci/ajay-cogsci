@@ -10,7 +10,7 @@ I am a Master's student at University of Fukui, Japan (Sep'23). My field of rese
 #### 🔥 I'm interested in ...
 
 - Financial & Economic Data Analysis
-- Mathematical Sciences
+- Causal Set Theory
 - Turing Machines 
 
 #### 📫 How to reach me
