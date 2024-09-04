@@ -1,6 +1,7 @@
 ### 👋 Hi, I'm Ajay 
 
-I am a Master's student at University of Fukui, Japan (Sep'23). My field of research is Causal Set Theory and Perturbative AQFT. Previously, I was a research member at [e-Learning & Data Analytics Lab](https://eldalab.in/).
+I am a Master's student at University of Fukui, Japan (Sep'23). My field of research is Causal Set Theory and Perturbative AQFT. Currently, I am member of the Yamakami Lab at UFukui.
+Previously, I was a research member at [e-Learning & Data Analytics Lab](https://eldalab.in/).
 
 #### 🚀 I’m currently working on ...
 
