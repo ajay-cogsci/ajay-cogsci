@@ -1,11 +1,12 @@
 ### 👋 Hi, I'm Ajay 
 
-I am a Master's student at University of Fukui, Japan (Sep'23). My field of research is Causal Set Theory and Perturbative AQFT. Currently, I am member of the Yamakami Lab at UFukui.
+I am a Master's student at University of Fukui, Japan (Sep'23). My field of research is Causal Encodings and Language Models. Currently, I am member of the Yamakami Lab at UFukui.
 Previously, I was a research member at [e-Learning & Data Analytics Lab](https://eldalab.in/).
 
 #### 🚀 I’m currently working on ...
 
-- Studying Stellar Evolution and Galaxy Formation
+- Causal encoddings in causal set theory and reinforcement learning
+- De-biasing language models
 
 #### 🚀 Previous work ...
 
@@ -14,10 +15,10 @@ Previously, I was a research member at [e-Learning & Data Analytics Lab](https:/
 
 #### 🔥 I'm interested in ...
 
-- Cosmology
-- Causal Set Theory
-- Algebraic QFT
-- Financial & Economic Data Analysis
+- Language Models
+- Implicit bias and de-biasing methods
+- LLM Alignment and Value Encoding
+- AI4Education
 - Computational Complexity 
 
 #### 📫 How to reach me
