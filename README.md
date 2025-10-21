@@ -1,12 +1,11 @@
 ### 👋 Hi, I'm Ajay 
 
-I am a Master's student at University of Fukui, Japan (Sep'23). My field of research is Causal Encodings and Language Models. Currently, I am member of the Yamakami Lab at UFukui.
-Previously, I was a research member at [e-Learning & Data Analytics Lab](https://eldalab.in/).
+I am a Doctoral student at the [Hasegawa Lab](https://haselab.fuis.u-fukui.ac.jp/), at University of Fukui (Previously, I was a member of the Yamakami Lab at UFukui and before, at [e-Learning & Data Analytics Lab](https://eldalab.in/).
 
 #### 🚀 I’m currently working on ...
 
-- Causal encoddings in causal set theory and reinforcement learning
-- De-biasing language models
+- Mechanistic Intepretability
+- Biases in Language models
 
 #### 🚀 Previous work ...
 
