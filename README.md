@@ -5,20 +5,21 @@ I am a Doctoral student at the [Hasegawa Lab](https://haselab.fuis.u-fukui.ac.jp
 #### 🚀 I’m currently working on ...
 
 - Mechanistic Intepretability
+- Emergent Misaligment
 - Biases in Language models
 
 #### 🚀 Previous work ...
 
 - Developing an eXplainable-AI augmented Misinformation SaaS tools and Open-domain Chatbot [OBabuMashai](https://mismemoir.weebly.com/).
-- Pertubative AQFT and its Cosmological applications in Causal Set Theory
+- Causal Reinforcement Learning in Causal Set Theory
 
 #### 🔥 I'm interested in ...
 
-- Language Models
-- Implicit bias and de-biasing methods
+- Why LLMs misbehave ?
+- Emergent Misalignment
 - LLM Alignment and Value Encoding
 - AI4Education
-- Computational Complexity 
+- Truthful AI 
 
 #### 📫 How to reach me
 - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roomylee/)](https://www.linkedin.com/in/ajayaiag/)
