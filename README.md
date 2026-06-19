@@ -1,5 +1,8 @@
 ### 👋 Hi, I'm Ajay 
 
+##Recent Update ...
+AI Research Engineer @ Citadel AI (Tokyo)
+
 I am a Doctoral student at the [Hasegawa Lab](https://haselab.fuis.u-fukui.ac.jp/), at University of Fukui (Previously, I was a member of the Yamakami Lab at UFukui and before, at [e-Learning & Data Analytics Lab](https://eldalab.in/).
 
 #### 🚀 I’m currently working on ...
