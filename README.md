@@ -20,7 +20,7 @@ I am a Doctoral student at the [Hasegawa Lab](https://haselab.fuis.u-fukui.ac.jp
 
 #### 📫 How to reach me
 - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roomylee/)](https://www.linkedin.com/in/ajayaiag/)
- -  Drop a line on adniajay@gmail.com
+ -  Drop a line on adniajay@gmail.com / ajay@citadel-ai.com
  
 <!---
 ajay-cogsci/ajay-cogsci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
